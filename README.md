@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 Computer Science Engineering student<br>💻 Building AI/ML and Full-Stack applications<br>🌱 Currently exploring AI/ML, DSA, Cloud & Backend Development<br>🤝 Open to collaborating on Open Source and innovative tech projects<br>🛠️ Tech: React.js • JavaScript • Python • Java • Node.js • MongoDB • MySQL<br>🚀 Passionate about turning real-world problems into practical software solutions
 
 
